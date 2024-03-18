@@ -2,9 +2,8 @@
 
 
 * 🌍  I'm based in Russia, Saint-Petersburg
-* 🔭  I’m currently learning Machine Learning and Big Data
+* 🔭  I’m currently learning backend development
 * 😄  Pronouns: He / Him
-* ⚡  Fun fact: BlackPink enjoyer
 * ✉️  You can contact me at [maks-laptev.03@mail.ru](mailto:maks-laptev.03@mail.ru)
 
 
